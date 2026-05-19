@@ -1,6 +1,6 @@
 # Hi, I'm Piotr!
 
-**Future ISA Engineer at WUST | Connecting the world of code with combustion engines 🏎️💻**
+**Bridging the world of code with combustion engines | Embedded Systems, C & Motorsport Enthusiast 🏎️💻**
 
 I am IT Technician who has always been drawn to the intersection of code and physical hardware. I have gained my first professional experience in an international IT environment (Erasmus+ internship) as well as valuable hands-on experience in a car workshop (Bosch Service), which gave me a unique perspective on blending technology with mechanics.
 
